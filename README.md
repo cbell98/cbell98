@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 
+About
+Colin Bell is a financial services professional with 15+ years of buy-side and sell-side experience in global markets. 
+
+Colin was previously sales director at emerging market-focused brokerage houses Auerbach Grayson and Decker & Co where he led investment research trips throughout Asia, Latin America, Africa and the Middle East. Earlier, Colin was an analyst before becoming a partner at hedge fund Prince Street Capital Management where he acted as deputy portfolio manager and was part of the founding team. Prince Street was at the forefront of introducing frontier markets in Southeast Asia, the Subcontinent, the Middle East and Africa to institutional investors in the early 2000's. 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
