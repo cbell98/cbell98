@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Colin Bell is a financial services professional with 15+ years of buy-side and sell-side experience in global markets. 
+Colin Bell is an experienced analyst, portfolio manager, sales director and trader with 15+ years of buy-side and sell-side experience in global financial markets.
 
 Tech: Python, SQL, NumPy, Pandas, Scikit-learn, TensorFlow, Keras, Flask, Plotly, Dash, Matplotlib, Heroku
 Machine Learning: Neural Networks, NLP, Clustering, Regression, Classification, Computer Vision, Time-Series Analysis
 Skills: Data analysis, Financial Analysis, Institutional Client Relations, Sales & Trading, Crypto-assets
 
-Colin was previously sales director at emerging market-focused brokerage houses Auerbach Grayson and Decker & Co where he led investment research trips throughout Asia, Latin America, Africa and the Middle East. Earlier, Colin was an analyst before becoming a partner at hedge fund Prince Street Capital Management where he acted as deputy portfolio manager and was part of the founding team. Prince Street was at the forefront of introducing frontier markets in Southeast Asia, the Subcontinent, the Middle East and Africa to institutional investors in the early 2000's. 
+Colin was previously sales director at emerging market-focused brokerage houses Auerbach Grayson and Decker & Co where he led investment research trips  and capital markets transactions across Asia, Latin America, Africa and the Middle East. Earlier, Colin was an analyst and then partner at hedge fund Prince Street Capital Management where he acted as deputy portfolio manager and was part of the founding team. Prince Street was at the forefront of introducing frontier markets in Southeast Asia, the Subcontinent, the Middle East and Africa to institutional investors in the early 2000's. 
 
 <!--
 **cbell98/cbell98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
