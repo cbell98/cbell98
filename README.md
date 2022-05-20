@@ -16,7 +16,6 @@ Career Highlights
 •	Promoted to Sales Director (Head of EM and Frontier markets) at Auerbach Grayson
 
 <!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
