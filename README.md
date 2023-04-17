@@ -1,8 +1,11 @@
 ### Hi there 👋 I'm Colin 🍀
 
  📌 I’m currently working on Numerai: A data science tournament to predict the stock market.
+ 
  📚 I’m currently learning AWS Cloud tools that deploy and host Machine Learning solutions.
+ 
  💬 Ask me about music or sports and we will be friends.
+ 
  🗺️ Fun fact: I love to travel for work and pleasure.
 
 🚀 **Skills**
