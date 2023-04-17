@@ -1,31 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm Colin 🍀
 
-Colin Bell is an experienced analyst, portfolio manager, sales director and trader with 15+ years of buy-side and sell-side experience in global financial markets. Colin is currently finishing an intensive six-month Data Science program focused on Python, SQL & databases, statistics & linear algebra, machine learning and neural networks at Bloomtech (formerly Lambda School) and is open to opportunities in traditional finance, digital assets or in industry at data-driven organizations.
+- 📌 I’m currently working on Numerai: A data science tournament to predict the stock market.
+- 📚 I’m currently learning AWS Cloud tools that deploy and host Machine Learning solutions.
+- 💬 Ask me about music or sports and we will be friends.
+- 🗺️ Fun fact: I love to travel for work or pleasure.
 
-Competencies
-Finance: Investment Research, Emerging Markets, Crypto-assets, FX, Financial Modeling, Business Development
-Tech & Machine Learning: Python, SQL, NumPy, Pandas, Scikit-learn, TensorFlow, Neural Networks
-Soft Skills: Soft skills:  Institutional Client Relations, Intellectually Curious, Cross-Functional, Self-Starter, Independently Organized
+🚀 **Skills**
 
-Colin was previously sales director at emerging market-focused brokerage houses Auerbach Grayson and Decker & Co where he focused on sourcing high quality, deeply researched investment ideas for institutional clients and led investment research trips throughout Asia, Latin America, Africa and the Middle East.  Earlier, Colin was an analyst before becoming a partner at emerging market hedge fund Prince Street Capital Management where he acted as deputy portfolio manager and was part of the founding team.  Prince Street was at the forefront of introducing frontier markets in Southeast Asia, the Subcontinent, the Middle East and Africa to institutional investors in the early-mid 2000's. 
-
-Career Highlights        
-•	Deputy Portfolio Manager supporting the CIO of Prince Street Capital Management – a 
-  global emerging markets focused hedge fund
-• Part of founding team at Prince Street, employee #1
-•	Promoted to Sales Director (Head of EM and Frontier markets) at Auerbach Grayson
+Finance:  Financial Analysis, Accounting & Reporting, FX, Financial Modeling, Business Development, Investment Research
+Tech:  Python, SQL, NumPy, Pandas, Scikit-learn, Matplotlib, Flask, Plotly, Dash, Heroku, PowerBI, Quicksight, Bloomberg
+Machine Learning:  Neural Networks, NLP, PyTorch, Clustering, Regression, Classification, Computer Vision, Time-Series
+AWS:  Redshift, RDS, DynamoDB, EMR, Glue, Kinesis, Athena, EC2, Lambda, S3, EBS, Cloudwatch
+Soft skills:  Client Relations, Intellectually Curious, High EQ, Cross-Functional, Self-Starter, Independently Organized
 
 <!--
 
 Here are some ideas to get you started:
 what else can i add? 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
