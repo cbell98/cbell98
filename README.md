@@ -8,7 +8,7 @@
  
  🗺️ Fun fact: I love to travel for work and pleasure.
 
-🚀 **Skills**
+**Skills**
 
 💰 Finance:  Financial Analysis, Accounting & Reporting, FX, Financial Modeling, Business Development, Investment Research
 
